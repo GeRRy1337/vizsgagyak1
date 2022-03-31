@@ -1,7 +1,7 @@
 <body class="bg-danger">
 <div class="container cont">
     <h1>Futóverseny jelentkezési lap</h1>
-    <div class="regisztracio bg-light border rounded border-2 border-primary">
+    <div class="regisztracio row bg-light border rounded border-2 border-primary">
         <div class="col-4">
             <h2>Adatok</h2>
             <form method="Post">
