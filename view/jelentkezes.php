@@ -6,19 +6,19 @@
             <h2>Adatok</h2>
             <form method="Post">
                 <div>
-                    <label for="nev">Név:</label><br>
+                    <label for="nev"><b>Név:</b></label><br>
                     <input required type="text" name="nev" id="nev">
                 </div>
                 <div>
-                    <label for="email">Email:</label><br>
+                    <label for="email"><b>Email:</b></label><br>
                     <input required type="email" name="email" id="email">
                 </div>
                 <div>
-                    <label for="szul">Születési idő:</label><br>
+                    <label for="szul"><b>Születési idő:</b></label><br>
                     <input required type="date" name="szul" id="szul">
                 </div>
                 <div>
-                    <label for="nem">Nem:</label><br>
+                    <label for="nem"><b>Nem:</b></label><br>
                     <input type="radio" name="nem" value="Férfi" id="nem">
                     <label for="nem">Férfi</label><br>
                     <input type="radio" name="nem" value="Nő" id="nem">
