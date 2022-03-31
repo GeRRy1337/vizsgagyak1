@@ -1,0 +1,13 @@
+.regisztracio{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 1000px){
+    .regisztracio{
+        flex-direction: column;
+        width:100%;
+    }
+    
+}
